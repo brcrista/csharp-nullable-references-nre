@@ -14,4 +14,4 @@ jobs:
       with:
         dotnet-version: '5.0.100'
 
-    - name: dotnet run
+    - run: dotnet run
